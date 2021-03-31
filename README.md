@@ -5,6 +5,6 @@ Conteúdo do curso Node com EJS para a Rocketseat
 Esse projeto precisa do NodeJS instalado, depois de clonar esse repositorio rode na pasta:
 
 ```
-npm i
+npm install
 ```
 
